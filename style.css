@@ -1,0 +1,11 @@
+button .img-fluid {
+  height: 17px;
+}
+
+button:hover img {
+  filter: brightness(0%) invert(100%);
+}
+
+.ui-datepicker {
+  width: auto!important;
+}
