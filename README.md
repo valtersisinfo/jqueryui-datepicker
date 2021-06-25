@@ -1,6 +1,8 @@
 # jqueryui-datepicker
 Opções para usar com o JQuery UI - Datepicker
 
+![Exemplo](exemplo.jpg "Exemplo")
+
 Este projeto usa:
 
 - jQuery 3.6.0
